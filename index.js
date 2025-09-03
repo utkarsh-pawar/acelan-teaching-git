@@ -19,6 +19,7 @@ console.log("sum", add2([8,7,65,4]));
 const subtract = (a, b) => {
   return a - b;
 };
+// subtracting three num
 
 // multiplying two numbers
 const multiply = (a, b) => {
