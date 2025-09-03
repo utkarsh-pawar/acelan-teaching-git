@@ -1,8 +1,8 @@
 // adding two numbers
-// const add = (arr) => {
-// return arr.reduce((a, b)=> a+b)
-// };
-// console.log("addd",add([1,2,4,9,4]));
+const add = (arr) => {
+return arr.reduce((a, b)=> a+b)
+};
+console.log("addd",add([1,2,4,9,4]));
 
 const add2 =(arr)=> {
   let sum = 0
@@ -24,6 +24,7 @@ const subtract = (a, b) => {
 const multiply = (a, b) => {
   return a * b;
 };
+
 // dividing two numbers 
 const divide = (a, b) => {
   return a / b;
