@@ -11,7 +11,7 @@ const add2 =(arr)=> {
   }
 return sum
 }
-
+// hello
 console.log("sum", add2([8,7,65,4]));
 
 
