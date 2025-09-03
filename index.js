@@ -24,10 +24,9 @@ const subtract = (a, b) => {
 const multiply = (a, b) => {
   return a * b;
 };
-
 // dividing two numbers 
 const divide = (a, b) => {
   return a / b;
 };
 
-// console.log(add(3, 10))
+console.log(add2([3, 10]))
