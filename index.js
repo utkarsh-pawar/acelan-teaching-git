@@ -9,9 +9,9 @@ const add2 =(arr)=> {
   for (let i = 0 ; i< arr.length; i++){
     sum += arr[i]
   }
-return sum
+return sum;
 }
-
+// hello
 console.log("sum", add2([8,7,65,4]));
 
 
@@ -19,6 +19,7 @@ console.log("sum", add2([8,7,65,4]));
 const subtract = (a, b) => {
   return a - b;
 };
+// subtracting three num
 
 // multiplying two numbers
 const multiply = (a, b) => {
