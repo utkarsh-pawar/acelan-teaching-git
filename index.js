@@ -9,7 +9,7 @@ const add2 =(arr)=> {
   for (let i = 0 ; i< arr.length; i++){
     sum += arr[i]
   }
-return sum
+return sum;
 }
 
 console.log("sum", add2([8,7,65,4]));
